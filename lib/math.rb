@@ -27,15 +27,14 @@ product
 end
 
 def modulo(num1, num2)
-num1 = 
-num2 = 
+num1 = 34
+num2 = 5
 remainder = num1 % num2
 remainder
 end
 
 def square_root(num)
-num1 = 
-num2 = 
-root= 
+num= 81
+root= num**
 root
 end
